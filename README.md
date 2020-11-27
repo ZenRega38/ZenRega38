@@ -12,7 +12,7 @@
 I'm an Highschool student. My Dream is to be able to travel around the world 🌏, because one of the most powerfull sentence in my life is "The world is too big to stay in one place". And I belive that I can make it happen with my future programming career 💻📲.
 
 <p align="center">
-  <img align="center" src="https://media.giphy.com/media/cuJ7s0dHt7XeU/giphy.gif">
+  <img align="center" src="https://media.giphy.com/media/Id71NFYfSBOKv2IexE/giphy.gif">
 </p>
 
 <p align="center">
