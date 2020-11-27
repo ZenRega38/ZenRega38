@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently looking for internship
 - 🌱 Learns from anyone, currently learning coredata & firebase
-- 🏠 Tarakan, North Kalimantan
+- 🏠 I live in Tarakan, North Kalimantan
 - 📬 How to reach me : <a href="mailto:regarizz@gmail.com">Let's get in touch!</a>
 
 ### About Me
