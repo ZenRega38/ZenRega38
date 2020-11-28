@@ -20,7 +20,5 @@ I'm an Highschool student. My Dream is to be able to travel around the world ğŸŒ
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZenRega38&theme=radical&hide_langs_below=1&layout=compact">
 </p>
 
-<p align="center">
-  <img align="https://media.giphy.com/media/z5aSlF8RZ0Zi0/giphy.gif">
-</p>
+
 
