@@ -12,11 +12,15 @@
 I'm an Highschool student. My Dream is to be able to travel around the world 🌏, because one of the most powerfull sentence in my life is "The world is too big to stay in one place". And I belive that I can make it happen with my future programming career 💻📲.
 
 <p align="center">
-  <img align="center" src="https://media.giphy.com/media/pO4UHglOY2vII/giphy.gif">
+  <img align="https://media.giphy.com/media/z5aSlF8RZ0Zi0/giphy.gif">
 </p>
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ZenRega38&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZenRega38&theme=radical&hide_langs_below=1&layout=compact">
+</p>
+
+<p align="center">
+  <img align="https://media.giphy.com/media/z5aSlF8RZ0Zi0/giphy.gif">
 </p>
 
