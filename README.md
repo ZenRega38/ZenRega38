@@ -1,6 +1,6 @@
-[![HitCount](http://hits.dwyl.com/ZenRega38/ZenRega38.svg)](http://hits.dwyl.com/ZenRega38/ZenRega38)
+# Hi there, I'm Rega 👋
 
-### Hi there, I'm Rega 👋
+[![HitCount](http://hits.dwyl.com/ZenRega38/ZenRega38.svg)](http://hits.dwyl.com/ZenRega38/ZenRega38)
 
 - 🔭 I’m currently looking for internship
 - 🌱 Learns from anyone, currently learning coredata & firebase
