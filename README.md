@@ -16,6 +16,6 @@ I'm an Highschool student. My Dream is to be able to travel around the world ğŸŒ
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ZenRega38&&show_icons=true&title_color=32C326&icon_color=8E8F8E&text_color=00000&bg_color=fffff">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ZenRega38&&show_icons=true&title_color=32C326&icon_color=8E8F8E&text_color=fffff&bg_color=000">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZenRega38&theme=radical&hide_langs_below=1&layout=compact&&title_color=32C326&icon_color=8E8F8E&text_color=00000&bg_color=fffff">
 </p>
