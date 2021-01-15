@@ -3,7 +3,7 @@
 [![HitCount](http://hits.dwyl.com/ZenRega38/ZenRega38.svg)](http://hits.dwyl.com/ZenRega38/ZenRega38)
 
 - 🔭 I’m looking for internship
-- 🌱 Learns from anyone, currently learning vue.js
+- 🌱 Currently learning vue.js
 - 🏠 Tarakan, North Kalimantan
 - 📬 How to reach me : <a href="mailto:regarizz@gmail.com">Let's get in touch!</a>
 - 📑 <a href="https://zenrega38.github.io/rega-portofolio/home">Check out my portofolio!</a>
