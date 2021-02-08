@@ -2,8 +2,8 @@
 
 [![HitCount](http://hits.dwyl.com/ZenRega38/ZenRega38.svg)](http://hits.dwyl.com/ZenRega38/ZenRega38)
 
-- 🔭 I’m looking for internship
-- 🌱 Currently learning vue.js
+- 💻 Frontend Web Developer Intern at <a href="http://www.dot.co.id/">DOT Indonesia</a>
+- 🌱 Currently learning vue.js & facebook api
 - 🏠 Tarakan, North Kalimantan
 - 📬 How to reach me : <a href="mailto:regarizz@gmail.com">Let's get in touch!</a>
 - 📑 <a href="https://zenrega38.github.io/rega-portofolio/home">Check out my portofolio!</a>
