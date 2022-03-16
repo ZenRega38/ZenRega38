@@ -9,7 +9,7 @@
 
 ### About Me
 
-I'm an high school student. My Dream is to be able to travel around the world 🌏, because one of the most powerfull sentence in my life is "The world is too big to stay in one place". And I belive that I can make it happen with my future programming career 💻📲.
+A current student from IDN Boarding School, majoring in Software Engineering. As an active student with notable achievements including 3rd winner in numerous UI/UX competitions and also participated in National Sumo-Bot competition, getting a scholarship offer in Binus University, and getting accepted in Telkom University International Class. Excelled in English subject and participated in Student Council as Language Division as well. Has been offered a place in Dundalk Institute of Technology Ireland and Telkom University International Class.
 
 <p align="center">
   <img align="center" src="https://media.giphy.com/media/fdHg7T902uzLy/giphy.gif">
