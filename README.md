@@ -9,7 +9,7 @@
 
 ### About Me
 
-A current student from IDN Boarding School, majoring in Software Engineering. As an active student with notable achievements including 3rd winner in numerous UI/UX competitions and also participated in National Sumo-Bot competition, getting a scholarship offer in Binus University, and getting accepted in Telkom University International Class. Excelled in English subject and participated in Student Council as Language Division as well. Has been offered a place in Dundalk Institute of Technology Ireland and Telkom University International Class.
+A current student from MQ Vocational High School majoring in Software Engineering. MQ Vocational High School is one of the best IT schools in Indonesia. As an active student with notable achievements including 3rd winner in numerous UI/UX competitions and also participated in National Sumo-Bot competition got a scholarship offer in Binus University, has been offered a place in Dundalk Institute of Technology Ireland and  Telkom University International Class. Excelled in English subject and participated in Student Council as Language Division as well.
 
 <p align="center">
   <img align="center" src="https://media.giphy.com/media/fdHg7T902uzLy/giphy.gif">
