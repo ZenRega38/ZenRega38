@@ -2,14 +2,14 @@
 
 [![HitCount](http://hits.dwyl.com/ZenRega38/ZenRega38.svg)](http://hits.dwyl.com/ZenRega38/ZenRega38)
 
-- 🌱 Currently learning laravel
-- 🏠 Bandung, West Java
+- 🌱 Currently learning php and machine learning
+- 🏠 Tarakan, North Kalimantan
 - 📬 How to reach me : <a href="mailto:regarizz@gmail.com">Let's get in touch!</a>
 - 📑 <a href="https://zenrega38.github.io/rega-portofolio/home">Check out my portofolio!</a>
 
 ### About Me
 
-A current student from MQ Vocational High School majoring in Software Engineering. MQ Vocational High School is one of the best IT schools in Indonesia. As an active student with notable achievements including 3rd winner in numerous UI/UX competitions and also participated in National Sumo-Bot competition got a scholarship offer in Binus University, has been offered a place in Dundalk Institute of Technology Ireland and  Telkom University International Class. Excelled in English subject and participated in Student Council as Language Division as well.
+An undergraduate student at Universitas Borneo Tarakan majoring in Computer Engineering.Active student with notable achievements including being the UBT Google DSC Lead 23/24, IISMA 2024, Pertamina Foundation and Fab Foundations Awardee, also represented North Kalimantan by being the youth delegation at the 10th World Water Forum, got a scholarship offer in Dundalk Institute of Technology Ireland. Excelled in English subjects and participated in Organizations and Communities.
 
 <p align="center">
   <img align="center" src="https://media.giphy.com/media/fdHg7T902uzLy/giphy.gif">
