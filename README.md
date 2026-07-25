@@ -2,7 +2,7 @@
 
 [![HitCount](http://hits.dwyl.com/ZenRega38/ZenRega38.svg)](http://hits.dwyl.com/ZenRega38/ZenRega38)
 
-- 🌱 Currently learning php and machine learning
+- 🌱 Currently learning AI Engineering and MLOps
 - 🏠 Tarakan, North Kalimantan
 - 📬 How to reach me : <a href="mailto:regarizz@gmail.com">Let's get in touch!</a>
 - 📑 <a href="https://zenrega.my.id/">Check out my portofolio!</a>
