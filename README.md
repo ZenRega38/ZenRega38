@@ -5,17 +5,27 @@
 - 🌱 Currently learning php and machine learning
 - 🏠 Tarakan, North Kalimantan
 - 📬 How to reach me : <a href="mailto:regarizz@gmail.com">Let's get in touch!</a>
-- 📑 <a href="https://zenrega38.github.io/rega-portofolio/home">Check out my portofolio!</a>
+- 📑 <a href="https://zenrega.my.id/">Check out my portofolio!</a>
 
 ### About Me
 
-An undergraduate student at Universitas Borneo Tarakan majoring in Computer Engineering.Active student with notable achievements including being the UBT Google DSC Lead 23/24, IISMA 2024, Pertamina Foundation and Fab Foundations Awardee, also represented North Kalimantan by being the youth delegation at the 10th World Water Forum, got a scholarship offer in Dundalk Institute of Technology Ireland. Excelled in English subjects and participated in Organizations and Communities.
+ <h1>Hi, I'm Rega Rizkan Azizan, B.Eng.</h1>
+                <p>Freshly graduated Computer Engineering student, AI Engineer, UI/UX enthusiast, developer with
+                    experience in Mobile & Web App Development, and an Environmentalist. <a href="https://www.dkit.ie/"
+                        target="_blank" class="univ-link"><strong>Dundalk Institute of Technology</strong><span
+                            class="univ-preview"><span class="preview-title">Dundalk Institute of
+                                Technology</span><span class="preview-domain">dkit.ie</span><span
+                                class="pointer-inner"></span></span></a> BSc (Hons) Computing in Software Development
+                    22/23 offer holder, <a href="https://www.sussex.ac.uk/" target="_blank"
+                        class="univ-link"><strong>University of Sussex</strong><span class="univ-preview"><span class="preview-title">University of
+                                Sussex</span><span class="preview-domain">sussex.ac.uk</span><span
+                                class="pointer-inner"></span></span></a> IISMA 24 Alumni and <a
+                        href="https://www.ed.ac.uk/" target="_blank" class="univ-link"><strong>University of
+                            Edinburgh</strong><span class="univ-preview"><span class="preview-title">University of
+                                Edinburgh</span><span class="preview-domain">ed.ac.uk</span><span
+                                class="pointer-inner"></span></span></a> MSc Cognitive Science 26/27 offer holder. Let's
+                    build something great together.</p>
 
 <p align="center">
   <img align="center" src="https://media.giphy.com/media/fdHg7T902uzLy/giphy.gif">
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ZenRega38&&theme=dark&&show_icons=true">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZenRega38&theme=radical&hide_langs_below=1&layout=compact&&title_color=fff&icon_color=8E8F8E&text_color=fff&bg_color=000">
 </p>
