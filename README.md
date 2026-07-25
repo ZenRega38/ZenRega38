@@ -1,4 +1,4 @@
-# Hi there, I'm Rega 👋
+ <h1>Hi, I'm Rega Rizkan Azizan, B.Eng. 👋</h1>
 
 [![HitCount](http://hits.dwyl.com/ZenRega38/ZenRega38.svg)](http://hits.dwyl.com/ZenRega38/ZenRega38)
 
@@ -9,8 +9,7 @@
 
 ### About Me
 
- <h1>Hi, I'm Rega Rizkan Azizan, B.Eng.</h1>
-                <p>Freshly graduated Computer Engineering student, AI Engineer, UI/UX enthusiast, developer with
+<p>Freshly graduated Computer Engineering student, AI Engineer, UI/UX enthusiast, developer with
                     experience in Mobile & Web App Development, and an Environmentalist. <a href="https://www.dkit.ie/"
                         target="_blank" class="univ-link"><strong>Dundalk Institute of Technology</strong><span
                             class="univ-preview"><span
@@ -21,7 +20,7 @@
                         href="https://www.ed.ac.uk/" target="_blank" class="univ-link"><strong>University of
                             Edinburgh</strong><span
                                 class="pointer-inner"></span></span></a> MSc Cognitive Science 26/27 offer holder. Let's
-                    build something great together.</p>
+                    build something great together!</p>
 
 <p align="center">
   <img align="center" src="https://media.giphy.com/media/fdHg7T902uzLy/giphy.gif">
