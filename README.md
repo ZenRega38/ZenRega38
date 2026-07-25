@@ -13,16 +13,13 @@
                 <p>Freshly graduated Computer Engineering student, AI Engineer, UI/UX enthusiast, developer with
                     experience in Mobile & Web App Development, and an Environmentalist. <a href="https://www.dkit.ie/"
                         target="_blank" class="univ-link"><strong>Dundalk Institute of Technology</strong><span
-                            class="univ-preview"><span class="preview-title">Dundalk Institute of
-                                Technology</span><span class="preview-domain">dkit.ie</span><span
+                            class="univ-preview"><span
                                 class="pointer-inner"></span></span></a> BSc (Hons) Computing in Software Development
                     22/23 offer holder, <a href="https://www.sussex.ac.uk/" target="_blank"
-                        class="univ-link"><strong>University of Sussex</strong><span class="univ-preview"><span class="preview-title">University of
-                                Sussex</span><span class="preview-domain">sussex.ac.uk</span><span
+                        class="univ-link"><strong>University of Sussex</strong><span
                                 class="pointer-inner"></span></span></a> IISMA 24 Alumni and <a
                         href="https://www.ed.ac.uk/" target="_blank" class="univ-link"><strong>University of
-                            Edinburgh</strong><span class="univ-preview"><span class="preview-title">University of
-                                Edinburgh</span><span class="preview-domain">ed.ac.uk</span><span
+                            Edinburgh</strong><span
                                 class="pointer-inner"></span></span></a> MSc Cognitive Science 26/27 offer holder. Let's
                     build something great together.</p>
 
