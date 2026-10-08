@@ -9,7 +9,7 @@
 
 ### About Me
 
-<p>Freshly graduated Computer Engineering student, AI Engineer, UI/UX enthusiast, developer with
+<p>Computer Engineering graduate, AI Engineer, UI/UX enthusiast, developer with
                     experience in Mobile & Web App Development, and an Environmentalist. <a href="https://www.dkit.ie/"
                         target="_blank" class="univ-link"><strong>Dundalk Institute of Technology</strong><span
                             class="univ-preview"><span
